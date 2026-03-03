@@ -1,0 +1,13 @@
+Reflection Questions & Answers
+
+1. What is gaze-based interaction?
+Gaze-based interaction is a method where the system detects what the user is looking at to trigger an action. In this lab, it is simulated by using the center of the camera to detect user intent.
+
+2. Why is dwell time useful?
+Dwell time allows a user to select an object simply by looking at it for a short, set duration. This is highly useful for creating button-free, hands-free interactions, which are essential for accessibility in XR.
+
+3. How does sensory feedback improve realism?
+Sensory feedback improves realism by engaging multiple human senses at the same time. Combining visual changes with audio cues creates "sensory alignment," which significantly strengthens the user's feeling of presence in the virtual environment.
+
+4. Which cube felt most immersive and why?
+The cube with color change, scale change, and sound (Cube 3) felt the most immersive. This is because it engaged multiple senses simultaneously, providing better sensory alignment and a much stronger feeling of presence compared to visual feedback alone.
